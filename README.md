@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brandon102002
+👋 Hi, I’m @Brandon102002
 
 - 🎓 **EECS @ UC Berkeley**, Minor in Astrophysics  
 - 💡 Interested in **software engineering**, **DevOps pipelines**, and **QA automation**  
